@@ -1,10 +1,16 @@
 {
-  "name": "@validation/isemail",
-  "description": "Validate an email address",
+  "name": "validation-isemail",
   "version": "1.0.0",
-  "repository": "git://github.com/theEngMansour/validation-isemail",
+  "description": "Validate an email address",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/theEngMansour/validation-isemail.git"
+  },
   "main": "index.js",
   "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "keywords": [
     "@validation/isemail",
     "validation",
@@ -15,9 +21,10 @@
     "address",
     "email address"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "theEngMansour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theEngMansour/validation-isemail/issues"
   },
-  "author": "",
-  "license": "ISC"
+  "homepage": "https://github.com/theEngMansour/validation-isemail#readme"
 }
