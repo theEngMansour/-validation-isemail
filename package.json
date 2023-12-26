@@ -1,0 +1,22 @@
+{
+  "name": "@validation/isemail",
+  "description": "Validate an email address",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "@validation/isemail",
+    "validation",
+    "check",
+    "checking",
+    "verification",
+    "email",
+    "address",
+    "email address"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
